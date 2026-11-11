@@ -1,0 +1,14 @@
+Package: PlanB
+Type: Package
+Title: Generadores de Variables Aleatorias Continuas
+Version: 0.1.0
+Authors@R: 
+    person("Tu", "Nombre", email = "tu@email.com", role = c("aut", "cre"))
+Description: Paquete con funciones para generar variables aleatorias
+    continuas usando el método de la inversa y transformaciones.
+    Incluye Exponencial, Weibull, Triangular, Pareto, Normal y Gamma.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+
